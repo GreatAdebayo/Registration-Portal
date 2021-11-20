@@ -81,9 +81,7 @@
               </form>
 
               <div class="row justify-content-center my-2">
-                <a href="#"
-                  ><small class="text-muted">Already Have an Account?</small></a
-                >
+               <router-link to="/login">Already Have an Account?</router-link>
               </div>
             </div>
           </div>
